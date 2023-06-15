@@ -1,3 +1,3 @@
 # odin-recipes
 
-The current project is to create a practice website about food recipes.The skills employed to make the website are: creatin a boilerplate html with all the tags, creating links,pictures, and unordered list as well as ordered lists(6-14-23).
+The current project is to create a practice website about food recipes.The knowledge employed to make the website are: create a boilerplate html with all the tags, creating links,pictures, and unordered list as well as ordered list(6-14-23).
