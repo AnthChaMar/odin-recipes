@@ -1,0 +1,60 @@
+.container{
+    background-color: rgb(176, 219, 243);
+    font-family: monospace,sans-serif,serif;
+}
+.img{
+    width:  350px;
+    height: 350px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading.one{
+    color:rgb(23, 170, 255);
+    text-align:center;
+}
+
+.des,.heading
+{
+    color:rgb(70, 179, 241);
+    text-align: center;
+}
+
+.list,
+.olist,
+p { 
+    background-color: rgb(193, 232, 255) ;
+    padding: 30px;
+    margin: 50px;
+    line-height: 2;
+    text-align: left;
+}
+
+.olist{
+list-style-position: inside;
+}
+
+.list{
+    list-style:none;
+}
+
+.item {
+    padding: 10px;
+}
+
+.container.two {
+    text-align: center;
+}
+
+#reference,
+.return{
+    background-color: rgb(193, 232, 255);
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-color: white;
+}
+
+
+
