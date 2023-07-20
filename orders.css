@@ -1,60 +1,65 @@
 .container{
-    background-color: rgb(176, 219, 243);
-    font-family: monospace,sans-serif,serif;
+    font-family: Sans-serif, Serif,Helvetica, sans-serif;
+    display: inline-block;
+    background-color: #F1F0CC;
+}
+h1,
+h2,
+h3 {
+    color: #8D775F;
+}
+
+h1{
+    margin-left: 130px;
+}
+
+.description {
+    display:inline-block;
+    font-size:15px;
 }
 .img{
-    width:  350px;
-    height: 350px;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+    width:325px;
+    height:370px;
+    float:left;
+    padding: 15px;
+    padding-right: 25px;
 }
 
-.heading.one{
-    color:rgb(23, 170, 255);
-    text-align:center;
+
+.craft{
+    display: inline;
 }
 
-.des,.heading
-{
-    color:rgb(70, 179, 241);
-    text-align: center;
+.unorder,
+.order {
+    float:left;
+    margin-left:25px;
 }
 
 .list,
-.olist,
-p { 
-    background-color: rgb(193, 232, 255) ;
-    padding: 30px;
-    margin: 50px;
-    line-height: 2;
-    text-align: left;
-}
-
 .olist{
-list-style-position: inside;
-}
-
-.list{
-    list-style:none;
-}
-
-.item {
+    width: 250px;
+    font-size:15px;
+    box-sizing: border-box;
     padding: 10px;
 }
 
-.container.two {
-    text-align: center;
+.order{
+    margin-left:98px;
 }
 
-#reference,
-.return{
-    background-color: rgb(193, 232, 255);
-    color: white;
-    padding: 10px;
+
+h2 {
+    font-size: 20px;
+}
+
+.heading.forth{
+    margin-left: 25px;
+}
+
+a{
+    background-color: #D5BF86;
+    padding: 5px;
     text-decoration: none;
-    border-color: white;
+    border: 1px solid #8D775F;
 }
-
-
-
