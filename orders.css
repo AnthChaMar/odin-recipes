@@ -44,6 +44,10 @@ h1{
     padding: 10px;
 }
 
+.olist{
+    width: 300px;
+}
+
 .order{
     margin-left:98px;
 }
@@ -63,3 +67,28 @@ a{
     text-decoration: none;
     border: 1px solid #8D775F;
 }
+
+/* Hasbrown */
+
+.heading.five{
+    margin-left: 300px;
+}
+
+#referen{
+    margin-left: 293px;
+}
+
+.heading.brown{
+    margin-left: 240px;
+}
+
+/* Steak */
+
+#reference{
+    margin-left: 289px;
+}
+
+
+
+
+
